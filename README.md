@@ -1,2 +1,2 @@
-From national-level coaching in Thailand to mastering machine learning at Michigan, I've blended discipline with deep tech. Whether it’s clustering Parkinson’s symptoms, debugging RAG pipelines, or designing chatbots that speak clinical dermatology, you go full INTJ — strategic, structured, and laser-focused.
-
+Hi, My name is Sunny a data science enthusiasat.
+This git hub account is use as a showcase for machine learning and data science related field.
