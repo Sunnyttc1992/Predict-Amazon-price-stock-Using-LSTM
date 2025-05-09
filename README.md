@@ -1,4 +1,4 @@
-### Hello and welcome!
+# Hello and welcome!
 My name is Sunny, and this repository showcases a deep learning project focused on predicting Amazon stock prices using an LSTM (Long Short-Term Memory) neural network.
 
 ## 🧠 Project Overview
